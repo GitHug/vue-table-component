@@ -1,5 +1,5 @@
 {
-  "name": "vue-table-component",
+  "name": "@githug/vue-table-component",
   "version": "1.9.2",
   "description": "A straightforward Vue component to filter and sort tables",
   "main": "dist/index.js",
