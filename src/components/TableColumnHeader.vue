@@ -8,7 +8,7 @@
         :aria-disabled="ariaDisabled"
         v-if="this.isVisible"
     >
-        {{ label }}
+      <span v-html="label" />
     </th>
 </template>
 

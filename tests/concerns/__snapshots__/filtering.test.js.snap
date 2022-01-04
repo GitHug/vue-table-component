@@ -25,7 +25,9 @@ exports[`Filtering can add a custom html class on the filter input 1`] = `
                 aria-sort="none"
                 class="table-component__th table-component__th--sort"
             >
-              First name
+              <span>
+                First name
+              </span>
             </th>
           </tr>
         </thead>
@@ -84,7 +86,9 @@ exports[`Filtering hides the filter when no columns are filterable 1`] = `
                 aria-sort="none"
                 class="table-component__th table-component__th--sort"
             >
-              First name
+              <span>
+                First name
+              </span>
             </th>
           </tr>
         </thead>
